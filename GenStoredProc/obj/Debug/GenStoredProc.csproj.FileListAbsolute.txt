@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\bin\Debug\GenStoredProc.exe.config
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\bin\Debug\GenStoredProc.exe
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\bin\Debug\GenStoredProc.pdb
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\obj\Debug\GenStoredProc.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\obj\Debug\GenStoredProc.exe
+\\mac\home\documents\visual studio 2017\Projects\GenStoredProc\GenStoredProc\obj\Debug\GenStoredProc.pdb
